@@ -1,1 +1,64 @@
-footer h1{color: blue;}
+footer {
+  position: relative;
+  width: 100%;
+  height: 465px;
+  background-color: black;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 220px;
+  padding-top: 12px;
+
+  padding-right: 285px;
+}
+.list a {
+  color: #ffffffb3;
+  font-size: 14px;
+  font-weight: 500;
+}
+.list li {
+  list-style-type: none;
+  line-height: 32px;
+}
+footer a {
+  color: #ffffffb3;
+}
+.t {
+  padding-left: 205px;
+  padding-top: 70px;
+  font-weight: 400;
+}
+.form1 {
+  font-family: "Helvetica Neue", sans-serif;
+  width: 137px;
+  border-radius: 3px;
+  height: 32px;
+  color: #ffffff;
+  background-color: black;
+  border: 1px solid #8f8282;
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 205px;
+  margin-top: 17px;
+}
+.form1 option {
+  background-color: #ffffff;
+  text-align: center;
+}
+.sign {
+  padding-left: 205px;
+  color: #ffffffb3;
+  font-size: 15px;
+  padding-top: 22px;
+  font-weight: 500;
+}
+.glb {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 215px;
+  bottom: 120px;
+  
+}
