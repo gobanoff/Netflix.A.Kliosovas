@@ -25,14 +25,14 @@ function Section5() {
             class="accordion-collapse collapse show"
           >
             <div class="accordion-body">
-              <p>
+            <p>
                 Netflix is a streaming service that offers a wide variety of
                 award-winning TV shows, movies, anime, documentaries, and more
-                on thousands of internet-connected devices. You can watch as
+                on thousands of internet-connected devices.</p> <p>You can watch as
                 much as you want, whenever you want without a single commercial
                 – all for one low monthly price. There's always something new to
                 discover and new TV shows and movies are added every week!
-              </p>
+                </p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ function Section5() {
                 watch instantly on the web at netflix.com from your personal
                 computer or on any internet-connected device that offers the
                 Netflix app, including smart TVs, smartphones, tablets,
-                streaming media players and game consoles. You can also download
+                streaming media players and game consoles.</p><p> You can also download
                 your favorite shows with the iOS, Android, or Windows 10 app.
                 Use downloads to watch while you're on the go and without an
                 internet connection. Take Netflix with you anywhere.
@@ -156,7 +156,7 @@ function Section5() {
               aria-expanded="false"
               aria-controls="panelsStayOpen-collapseSix"
             >
-              Is Netflix good for kids?
+              Is Netflix good for kids? <img src=""alt=""/> ;
             </button>
           </h2>
           <div
@@ -167,7 +167,7 @@ function Section5() {
               <p>
                 The Netflix Kids experience is included in your membership to
                 give parents control while kids enjoy family-friendly TV shows
-                and movies in their own space. Kids profiles come with
+                and movies in their own space. </p><p>Kids profiles come with
                 PIN-protected parental controls that let you restrict the
                 maturity rating of content kids can watch and block specific
                 titles you don’t want kids to see.
