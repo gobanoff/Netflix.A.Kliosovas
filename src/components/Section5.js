@@ -6,9 +6,9 @@ function Section5() {
       <div className="bord"></div>
       <h1>Frequently Asked Questions</h1>
 
-      <div class="accordion" id="accordionPanelsStayOpenExample">
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+      <div className="accordion" id="accordionPanelsStayOpenExample">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
               className="accordion-button"
               type="button"
@@ -17,14 +17,14 @@ function Section5() {
               aria-expanded="true"
               aria-controls="panelsStayOpen-collapseOne"
             >
-              What is Netflix ?
+              What is Netflix ?Name
             </button>
           </h2>
           <div
             id="panelsStayOpen-collapseOne"
-            class="accordion-collapse collapse show"
+            className="accordion-collapse collapse show"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>
                 Netflix is a streaming service that offers a wide variety of
                 award-winning TV shows, movies, anime, documentaries, and more
@@ -39,10 +39,10 @@ function Section5() {
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseTwo"
@@ -54,9 +54,9 @@ function Section5() {
           </h2>
           <div
             id="panelsStayOpen-collapseTwo"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>
                 Watch Netflix on your smartphone, tablet, Smart TV, laptop, or
                 streaming device, all for one fixed monthly fee. Plans range
@@ -65,10 +65,10 @@ function Section5() {
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseThree"
@@ -80,9 +80,9 @@ function Section5() {
           </h2>
           <div
             id="panelsStayOpen-collapseThree"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>
                 Watch anywhere, anytime. Sign in with your Netflix account to
                 watch instantly on the web at netflix.com from your personal
@@ -100,10 +100,10 @@ function Section5() {
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseFour"
@@ -115,9 +115,9 @@ function Section5() {
           </h2>
           <div
             id="panelsStayOpen-collapseFour"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>
                 Netflix is flexible. There are no pesky contracts and no
                 commitments. You can easily cancel your account online in two
@@ -127,10 +127,10 @@ function Section5() {
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseFive"
@@ -142,9 +142,9 @@ function Section5() {
           </h2>
           <div
             id="panelsStayOpen-collapseFive"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>
                 Netflix has an extensive library of feature films,
                 documentaries, TV shows, anime, award-winning Netflix originals,
@@ -153,24 +153,24 @@ function Section5() {
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseSix"
               aria-expanded="false"
               aria-controls="panelsStayOpen-collapseSix"
             >
-              Is Netflix good for kids? <img src="" alt="" /> ;
+              Is Netflix good for kids? <img src="" alt="" /> 
             </button>
           </h2>
           <div
             id="panelsStayOpen-collapseSix"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>
                 The Netflix Kids experience is included in your membership to
                 give parents control while kids enjoy family-friendly TV shows
@@ -184,10 +184,10 @@ function Section5() {
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
+        <div className="accordion-item">
+          <h2 className="accordion-header">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseSeven"
@@ -199,9 +199,9 @@ function Section5() {
           </h2>
           <div
             id="panelsStayOpen-collapseSeven"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
           >
-            <div class="accordion-body">
+            <div className="accordion-body">
               <p>Your browser preferences determine the language shown here.</p>
             </div>
           </div>
