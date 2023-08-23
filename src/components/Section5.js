@@ -17,7 +17,7 @@ function Section5() {
               aria-expanded="true"
               aria-controls="panelsStayOpen-collapseOne"
             >
-              What is Netflix ?Name
+              What is Netflix ?
             </button>
           </h2>
           <div

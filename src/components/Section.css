@@ -223,8 +223,11 @@ h1 {
   padding-left: 623px;
   padding-top: 80px;
 }
-.in{z-index: 0;}
-.accordion {z-index: 1;
+.in {
+  z-index: 0;
+}
+.accordion {
+  z-index: 1;
   width: 00px;
   height: 643px;
   padding-top: 58px;
@@ -245,11 +248,15 @@ h1 {
   width: 1500px;
   margin-top: 10px;
 }
-.accordion-item p {z-index: 1;
-  width: 1500px;
+.accordion-item p {
+  z-index: 1;
+  width: 1490px;
   background-color: rgb(40, 46, 46);
 }
 .accordion-body p {
   height: 110px;
+  text-align: justify;
 }
-.accordion-body{z-index: 1;}
+#panelsStayOpen-collapseSix {
+  z-index: 1;
+}
