@@ -6,7 +6,7 @@ body {
   position: absolute;
   width: 100%;
   height: 8px;
-  background-color: rgb(125, 123, 121);
+  background-color: rgb(27, 26, 25);
 }
 h1 {
   color: #ffffff;
@@ -52,7 +52,7 @@ h1 {
   position: absolute;
   width: 100%;
   height: 8px;
-  background-color: rgb(55, 54, 53);
+  background-color: rgb(27, 26, 25);
 }
 
 .s2 {
@@ -114,7 +114,15 @@ h1 {
   margin: 0;
   padding: 0;
 }
-
+#img5 {
+  width: 25px;
+  position: absolute;
+  bottom: 35px;
+  height: 30px;
+  left: 340px;
+  margin: 0;
+  padding: 0;
+}
 #blue {
   font-size: 14px;
   margin: 0;
@@ -206,13 +214,36 @@ h1 {
   border: none;
 }
 .line5 {
-  color: #ffffff;padding-top: 760px;
-  font-size: 20px;padding-left: 637px;
+  color: #ffffff;
+  padding-top: 115px;
+  font-size: 20px;
+  padding-left: 637px;
 }
-.s5 h1{padding-left: 623px;padding-top: 80px;}
+.s5 h1 {
+  padding-left: 623px;
+  padding-top: 80px;
+}
 
+.accordion {
+  width: 00px;
+  height: 643px;
+  padding-top: 58px;
+  margin-left: 200px;
+}
 
-
-
-
-
+.accordion-item {
+  background-color: rgb(65, 69, 69);
+  height: 84px;
+  color: white;
+  font-size: 25px;
+  border: none;
+  font-weight: 400;
+}
+.accordion button {
+  background-color: rgb(40, 46, 46);
+  height: 84px;
+  width: 1500px;
+  margin-top: 10px;
+}
+.accordion-item p{width: 1500px;background-color: rgb(40, 46, 46) ;}
+.accordion-body p{height: 84px;}

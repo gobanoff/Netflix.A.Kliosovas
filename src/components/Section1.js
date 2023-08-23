@@ -3,7 +3,7 @@ import "./Section.css";
 function Section1() {
   return (
     <section className="s1">
-      {" "}
+      
       <div className="bord"></div>
       <div className="half">
         <h1>Enjoy on your TV</h1>
@@ -16,9 +16,9 @@ function Section1() {
       /> <video 
       src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v"
       type="video/mp4"
-      autoplay = {true}
+      autoplay
       muted
-      loop ={true}
+      loop 
     ></video>
     </section>
   );

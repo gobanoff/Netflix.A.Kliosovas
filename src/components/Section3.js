@@ -3,7 +3,7 @@ import './Section.css';
 function Section3() {
     return (
 <section className="s3">
-      {" "}
+      
       <div className="bord"></div>
       <div className="half3">
         <h1>Watch everywhere</h1>
@@ -13,12 +13,12 @@ function Section3() {
       <img
         src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile.png"
         alr=""
-      /> <video controls
+      /> <video 
       src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices.m4v"
-      type="video/mp4"
-      autoplay = {true}
+      type="video/m4v"
+      autoplay 
       muted
-      loop ={true}
+      loop 
     ></video>
     </section>
 
