@@ -32,7 +32,7 @@ function Header() {
 
           <div className="in">
             <input id="email" type="email" placeholder="Email address" />
-            <button className="start">Get Started > </button>
+            <button className="start">Get Started  </button>
           </div>
         </div>
       </div>
