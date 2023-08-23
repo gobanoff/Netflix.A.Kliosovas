@@ -5,8 +5,9 @@ function Footer() {
     <footer>
       <div className="bord"></div>
 
-
-      <p className="t"><a href="#">Questions? Contact us.</a></p>
+      <p className="t">
+        <a href="#">Questions? Contact us.</a>
+      </p>
       <div className="list">
         {" "}
         <div>
@@ -78,24 +79,24 @@ function Footer() {
             <li>
               <a href="#">Contact Us</a>
             </li>
-            
-              <li>
-                <a href="#">Only on Netflix</a>
-              </li>
-            
+
+            <li>
+              <a href="#">Only on Netflix</a>
+            </li>
           </ul>
         </div>
-      </div><select className="form1">
-              
-              <option className="sel1">
-              English</option>
+      </div>
+      <select className="form1">
+        <option className="sel1">English</option>
 
-              <option>Русский</option>
-            </select>
-            <p className="sign">Netflix Lithuania</p><img className="glb"
-                src="https://icon-library.com/images/white-globe-icon/white-globe-icon-24.jpg"
-                alt=""
-              />
+        <option>Русский</option>
+      </select>
+      <p className="sign">Netflix Lithuania</p>
+      <img
+        className="glb"
+        src="https://icon-library.com/images/white-globe-icon/white-globe-icon-24.jpg"
+        alt=""
+      />
     </footer>
   );
 }

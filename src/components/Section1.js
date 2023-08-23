@@ -3,7 +3,6 @@ import "./Section.css";
 function Section1() {
   return (
     <section className="s1">
-      
       <div className="bord"></div>
       <div className="half">
         <h1>Enjoy on your TV</h1>
@@ -13,13 +12,14 @@ function Section1() {
       <img
         src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png"
         alr=""
-      /> <video 
-      src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v"
-      type="video/mp4"
-      autoplay
-      muted
-      loop 
-    ></video>
+      />{" "}
+      <video
+        src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v"
+        type="video/mp4"
+        autoplay
+        muted
+        loop
+      ></video>
     </section>
   );
 }

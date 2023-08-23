@@ -225,7 +225,7 @@ h1 {
 }
 
 .accordion {
- width: 00px;
+  width: 00px;
   height: 643px;
   padding-top: 58px;
   margin-left: 200px;
@@ -233,7 +233,7 @@ h1 {
 
 .accordion-item {
   background-color: rgb(65, 69, 69);
- 
+
   color: white;
   font-size: 25px;
   border: none;
@@ -249,9 +249,6 @@ h1 {
   width: 1500px;
   background-color: rgb(40, 46, 46);
 }
-.accordion-body p{height: 110px;}
-
-
-
-
-
+.accordion-body p {
+  height: 110px;
+}

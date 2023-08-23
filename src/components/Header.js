@@ -11,15 +11,16 @@ function Header() {
           />
           <div className="sel">
             <select className="form">
-              
               <option className="sel1">English</option>
 
               <option>Русский</option>
             </select>
-            <button>Sign in</button><img className="glb1"
-                src="https://icon-library.com/images/white-globe-icon/white-globe-icon-24.jpg"
-                alt=""
-              />
+            <button>Sign in</button>
+            <img
+              className="glb1"
+              src="https://icon-library.com/images/white-globe-icon/white-globe-icon-24.jpg"
+              alt=""
+            />
           </div>
         </div>
         <div className="head2">
